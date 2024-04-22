@@ -1,0 +1,3 @@
+public enum Obor {
+OBCANSKE, TRESTNI, SPRAVNI, OBCHODNI
+}
